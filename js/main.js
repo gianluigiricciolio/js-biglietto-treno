@@ -25,12 +25,3 @@ else if(ageUtente>=65){
 prezzo-=prezzo*percentualeSconto/100;
 console.log(prezzo);
 
-// se valori età e km sono corretti
-
-//     calcolo costo biglietto:
-//     tariffa*km da percorrere
-//     se età utente<18 costobiglietto*sconto minorenni
-//     se età utente>65 costobiglietto*sconto over
-//     altrimenti costobiglietto
-
-// altrimenti stampo errore
